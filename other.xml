@@ -1,0 +1,74 @@
+<application>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="10.8.0" last-modified="1533821162000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.8.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/10.7.0/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+    <option name="INSERT_TYPE_DOCSTUB" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/cmdb-1mOZtQk9/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/cmdb-1mOZtQk9/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/cmdb-1mOZtQk9/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="PythonDocumentationMap">
+    <option name="entries">
+      <list>
+        <Entry>
+          <option name="prefix" value="PyQt4" />
+          <option name="urlPattern" value="http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/{class.name.lower}.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="PySide" />
+          <option name="urlPattern" value="http://pyside.github.io/docs/pyside/{module.name.slashes}/{class.name}.html#{module.name}.{element.qname}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="gtk" />
+          <option name="urlPattern" value="http://library.gnome.org/devel/pygtk/stable/class-gtk{class.name.lower}.html#method-gtk{class.name.lower}--{function.name.dashes}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="wx" />
+          <option name="urlPattern" value="http://www.wxpython.org/docs/api/{module.name}.{class.name}-class.html#{function.name}" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="numpy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/numpy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="scipy" />
+          <option name="urlPattern" value="http://docs.scipy.org/doc/scipy/reference/{}generated/{module.name}.{element.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="kivy" />
+          <option name="urlPattern" value="http://kivy.org/docs/api-{module.name}.html" />
+        </Entry>
+        <Entry>
+          <option name="prefix" value="flask" />
+          <option name="urlPattern" value="http://flask.pocoo.org/" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>

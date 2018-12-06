@@ -1,0 +1,133 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="100" />
+    <histories>
+      <item value="Standard Spanish dictionary for Spell Checker plugin" />
+      <item value="Exclude symlinks in subdirectories." />
+      <item value="This plugin allows you to manage your own snippets." />
+      <item value="persistently" />
+      <item value="Synchronize settings for IntelliJ-based IDEs across all installations." />
+      <item value="This plugin enables support for GNU GetText files (*.po)" />
+      <item value="Visualisation of concurrent events in a running program" />
+      <item value="accessibility" />
+      <item value="alphabetically" />
+      <item value="This plugin allows you to sort your code depending on indentation, comments, brackets etc. eg." />
+      <item value="interact" />
+      <item value="invoke" />
+      <item value="scheduler" />
+      <item value="FORCE" />
+      <item value="trigger" />
+      <item value="sync" />
+      <item value="Invoke" />
+      <item value="delete" />
+      <item value="Reload a fresh instance from the database." />
+      <item value="alter column" />
+      <item value="alter" />
+      <item value="file, e.g., for bringing a variable declaration closer to the variable usage." />
+      <item value="metrics" />
+      <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
+      <item value="Introducing Makefile tool window: all project Makefiles in a single window. The plugin now also builds an index of" />
+      <item value="skip actions" />
+      <item value="skip stage" />
+      <item value="properties" />
+      <item value="back populates" />
+      <item value="populates" />
+      <item value="component Will Mount" />
+      <item value="many" />
+      <item value="purchase" />
+      <item value="09:12&#9;Mybatis Plugin: Thank you for evaluating Mybatis Plugin." />
+      <item value="current stage" />
+      <item value="14:15&#9;Scratch Plugin: Click here to migrate scratches to folder with IDE built-in scratches. Both plugin and IDE scratches will be kept. In case of conflicting names, files will be prefixed with '_'." />
+      <item value="Provides hunspell dictionary support" />
+      <item value="hunspell" />
+      <item value="Artifact" />
+      <item value="rtifact" />
+      <item value="canary release" />
+      <item value="cluster" />
+      <item value="deployment records" />
+      <item value="deployments" />
+      <item value="schedule" />
+      <item value="const" />
+      <item value="constructor" />
+      <item value="millisecond" />
+      <item value="expire Time" />
+      <item value="consumer Id" />
+      <item value="payload" />
+      <item value="marshalled" />
+      <item value="declarative" />
+      <item value="subscriptable" />
+      <item value="'Response' object is not subscriptable" />
+      <item value="artifact" />
+      <item value="deployment" />
+      <item value="ARTIFACT HOST" />
+      <item value="To specify indexes with explicit names or indexes that&#10;            contain multiple columns, use the :class:`.Index` construct&#10;            instead." />
+      <item value="This is a shortcut for using a :class:`.Index` construct on the&#10;            table" />
+      <item value="indicates that the column is indexed." />
+      <item value="Neither" />
+      <item value="promise 1" />
+      <item value="increment" />
+      <item value="The columns to return" />
+      <item value="Query Builder" />
+      <item value="clause" />
+      <item value="The value of the where clause" />
+      <item value="Value must be provided" />
+      <item value="Fluent" />
+      <item value="Can't swap dbapi connection&quot;&#10;                               &quot;while within transaction" />
+      <item value="SUCCESS" />
+      <item value="usefixtures" />
+      <item value="mark" />
+      <item value="post" />
+      <item value="precise" />
+      <item value="monitor" />
+      <item value="unique" />
+      <item value="constrain" />
+      <item value="Interva" />
+      <item value="acquire" />
+      <item value="zone" />
+      <item value="stupid" />
+      <item value="extra options" />
+      <item value="&quot;&quot;&quot;Decorator to create a task class out of any callable." />
+      <item value="duration" />
+      <item value="Continuous Integration" />
+      <item value="immutable" />
+      <item value="finish" />
+      <item value="duration time" />
+      <item value="unsigned" />
+      <item value="interval" />
+      <item value="This is a shortcut for not having to parse out the scheme, host, and port of the url before creating an :class:`.ConnectionPool` instance." />
+      <item value="return an :class:`.ConnectionPool` instance of its host" />
+      <item value="stat" />
+      <item value="minutes" />
+      <item value="inventory" />
+      <item value="Constant name &quot;l&quot; doesn't conform to UPPER_CASE naming style (invalid-name)" />
+      <item value="redefined-outer-name" />
+      <item value="noinspection" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="ROMANIAN" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="29f2e7be57265246" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
