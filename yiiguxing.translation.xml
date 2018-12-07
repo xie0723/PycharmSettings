@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="max attempt" />
+      <item value="Stop when the previous attempt" />
       <item value="async" />
       <item value="terminated by" />
       <item value="Standard Spanish dictionary for Spell Checker plugin" />
@@ -100,13 +102,11 @@
       <item value="return an :class:`.ConnectionPool` instance of its host" />
       <item value="stat" />
       <item value="minutes" />
-      <item value="inventory" />
-      <item value="Constant name &quot;l&quot; doesn't conform to UPPER_CASE naming style (invalid-name)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
