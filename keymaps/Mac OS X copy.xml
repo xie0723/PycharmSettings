@@ -2,6 +2,9 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="ActivateCodeOutlineToolWindow">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
