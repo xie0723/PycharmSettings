@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="inventory" />
       <item value="max attempt" />
       <item value="Stop when the previous attempt" />
       <item value="async" />
@@ -101,7 +102,6 @@
       <item value="This is a shortcut for not having to parse out the scheme, host, and port of the url before creating an :class:`.ConnectionPool` instance." />
       <item value="return an :class:`.ConnectionPool` instance of its host" />
       <item value="stat" />
-      <item value="minutes" />
     </histories>
     <option name="languageScores">
       <map>
