@@ -4,7 +4,7 @@
     <property name="created">2018-09-03T20:08:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2018-09-03T20:42:53</property>
+    <property name="modified">2018-12-13T17:48:19</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -17,7 +17,27 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+  </colors>
   <attributes>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="4daf4e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="c9b25f" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="748755" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
@@ -57955,6 +57975,7 @@
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="ca3cfd" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
