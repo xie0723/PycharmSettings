@@ -18,6 +18,11 @@
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="aliasQualification" value="Always" />
+    <option name="namespaceQualification" value="Always" />
+    <option name="tableQualification" value="Always" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
