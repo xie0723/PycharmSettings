@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="other" />
+      <item value="othen" />
+      <item value="host category" />
+      <item value="category" />
       <item value="blue hosts" />
       <item value="deployment history list" />
       <item value="blue" />
@@ -98,15 +102,11 @@
       <item value="&quot;&quot;&quot;Decorator to create a task class out of any callable." />
       <item value="duration" />
       <item value="Continuous Integration" />
-      <item value="immutable" />
-      <item value="finish" />
-      <item value="duration time" />
-      <item value="unsigned" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
