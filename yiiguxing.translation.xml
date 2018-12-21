@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="dummy" />
       <item value="gthread" />
       <item value="gevent" />
       <item value="graceful" />
@@ -101,12 +102,11 @@
       <item value="acquire" />
       <item value="zone" />
       <item value="stupid" />
-      <item value="extra options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
