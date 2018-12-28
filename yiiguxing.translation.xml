@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="assume the command was&#10;        # a success" />
+      <item value="assume" />
       <item value="验证" />
       <item value="async" />
       <item value="default" />
@@ -100,13 +102,11 @@
       <item value="Value must be provided" />
       <item value="Fluent" />
       <item value="Can't swap dbapi connection&quot;&#10;                               &quot;while within transaction" />
-      <item value="SUCCESS" />
-      <item value="usefixtures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
