@@ -5,9 +5,10 @@
       <list>
         <option value="scratch.json" />
         <option value="scratch_3.py" />
+        <option value="scratch.py" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_3.py" />
+    <option name="lastOpenedScratch" value="scratch.py" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
