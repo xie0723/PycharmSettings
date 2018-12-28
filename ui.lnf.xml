@@ -13,6 +13,7 @@
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SORT_BOOKMARKS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
