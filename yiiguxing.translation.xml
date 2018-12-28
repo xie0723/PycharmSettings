@@ -2,6 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="upload throughput" />
+      <item value="download throughput" />
+      <item value="additional latency" />
+      <item value="latency" />
+      <item value="offline" />
+      <item value="Sets Chrome network emulation settings" />
+      <item value="network emulation" />
+      <item value="Set the amount of time that the script should wait during an&#10;           execute_async_script call before throwing an error" />
+      <item value="during an" />
+      <item value="To set the timeout for calls to&#10;           execute_async_script" />
+      <item value="This method only needs to be called one&#10;           time per session" />
+      <item value="per session" />
+      <item value="Sets a sticky timeout to implicitly wait for an element to be found," />
+      <item value="implicitly" />
+      <item value="sticky" />
       <item value="assume the command was&#10;        # a success" />
       <item value="assume" />
       <item value="验证" />
@@ -87,26 +102,11 @@
       <item value="subscriptable" />
       <item value="'Response' object is not subscriptable" />
       <item value="artifact" />
-      <item value="deployment" />
-      <item value="ARTIFACT HOST" />
-      <item value="To specify indexes with explicit names or indexes that&#10;            contain multiple columns, use the :class:`.Index` construct&#10;            instead." />
-      <item value="This is a shortcut for using a :class:`.Index` construct on the&#10;            table" />
-      <item value="indicates that the column is indexed." />
-      <item value="Neither" />
-      <item value="promise 1" />
-      <item value="increment" />
-      <item value="The columns to return" />
-      <item value="Query Builder" />
-      <item value="clause" />
-      <item value="The value of the where clause" />
-      <item value="Value must be provided" />
-      <item value="Fluent" />
-      <item value="Can't swap dbapi connection&quot;&#10;                               &quot;while within transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="133" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
