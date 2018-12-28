@@ -32,6 +32,9 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
@@ -39,6 +42,7 @@
   <action id="EditorLineStartWithSelection">
     <keyboard-shortcut first-keystroke="shift home" />
   </action>
+  <action id="IpnbRunAllCellsAction" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -56,6 +60,9 @@
   </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="ScrollPane-scrollEnd">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
