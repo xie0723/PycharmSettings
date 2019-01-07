@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="list of command line arguments" />
+      <item value="WC1 None passing a string to pytest.main() is deprecated, pass a list of arguments instead." />
       <item value="immediate" />
       <item value="snippet" />
       <item value="upload throughput" />
@@ -100,13 +102,11 @@
       <item value="payload" />
       <item value="marshalled" />
       <item value="declarative" />
-      <item value="subscriptable" />
-      <item value="'Response' object is not subscriptable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
