@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Foreign" />
       <item value="populates" />
       <item value="manual" />
       <item value="list of command line arguments" />
@@ -101,7 +102,6 @@
       <item value="expire Time" />
       <item value="consumer Id" />
       <item value="payload" />
-      <item value="marshalled" />
     </histories>
     <option name="languageScores">
       <map>
