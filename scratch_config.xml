@@ -1,15 +1,6 @@
 <application>
   <component name="ScratchConfig">
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
-    <option name="fullScratchNamesOrdered">
-      <list>
-        <option value="scratch.json" />
-        <option value="scratch_3.py" />
-        <option value="scratch.py" />
-        <option value="scratch_1.py" />
-      </list>
-    </option>
-    <option name="lastOpenedScratch" value="scratch_3.py" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
