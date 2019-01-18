@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="transient" />
       <item value="Constraint" />
       <item value="Continuous" />
       <item value="fragments" />
@@ -101,12 +102,11 @@
       <item value="deployment records" />
       <item value="deployments" />
       <item value="schedule" />
-      <item value="const" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="145" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
