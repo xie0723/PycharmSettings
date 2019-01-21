@@ -9,7 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
