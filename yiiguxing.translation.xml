@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="propagate" />
       <item value="precise" />
       <item value="Locatars" />
       <item value="sitawerawe" />
@@ -101,12 +102,11 @@
       <item value="rtifact" />
       <item value="canary release" />
       <item value="cluster" />
-      <item value="deployment records" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="148" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
