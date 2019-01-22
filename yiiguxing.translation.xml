@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
-      <item value="propagate" />
       <item value="precise" />
+      <item value="propagate" />
       <item value="Locatars" />
       <item value="sitawerawe" />
       <item value="transient" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
