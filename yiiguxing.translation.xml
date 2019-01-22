@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="sitawerawe" />
       <item value="transient" />
       <item value="Constraint" />
       <item value="Continuous" />
@@ -101,7 +102,6 @@
       <item value="cluster" />
       <item value="deployment records" />
       <item value="deployments" />
-      <item value="schedule" />
     </histories>
     <option name="languageScores">
       <map>
