@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="precise" />
+      <item value="Locatars" />
       <item value="sitawerawe" />
       <item value="transient" />
       <item value="Constraint" />
@@ -36,7 +38,6 @@
       <item value="验证" />
       <item value="async" />
       <item value="default" />
-      <item value="precise" />
       <item value="expire" />
       <item value="intersection" />
       <item value="IMPORTS" />
@@ -101,12 +102,11 @@
       <item value="canary release" />
       <item value="cluster" />
       <item value="deployment records" />
-      <item value="deployments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="147" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
