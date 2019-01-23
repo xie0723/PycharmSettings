@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="presence of element located" />
+      <item value="presence" />
+      <item value="implicitly" />
       <item value="precise" />
       <item value="propagate" />
       <item value="Locatars" />
@@ -32,7 +35,6 @@
       <item value="This method only needs to be called one&#10;           time per session" />
       <item value="per session" />
       <item value="Sets a sticky timeout to implicitly wait for an element to be found," />
-      <item value="implicitly" />
       <item value="sticky" />
       <item value="assume the command was&#10;        # a success" />
       <item value="assume" />
@@ -100,13 +102,11 @@
       <item value="hunspell" />
       <item value="Artifact" />
       <item value="rtifact" />
-      <item value="canary release" />
-      <item value="cluster" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
