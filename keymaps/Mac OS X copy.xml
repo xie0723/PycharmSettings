@@ -12,6 +12,9 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -87,9 +90,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="Tool_External Tools_autopep8">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
@@ -100,9 +100,6 @@
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
-  </action>
-  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
-    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="com.karateca.jstoolbox.torelated.GoToTestAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
