@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value=" Display manpage. " />
+      <item value="graph" />
       <item value="screenshot" />
       <item value="Set the amount of time that the script should wait during an&#10;           execute_async_script call before throwing an error" />
       <item value="Spawning" />
@@ -100,8 +102,6 @@
       <item value="09:12&#9;Mybatis Plugin: Thank you for evaluating Mybatis Plugin." />
       <item value="current stage" />
       <item value="14:15&#9;Scratch Plugin: Click here to migrate scratches to folder with IDE built-in scratches. Both plugin and IDE scratches will be kept. In case of conflicting names, files will be prefixed with '_'." />
-      <item value="Provides hunspell dictionary support" />
-      <item value="hunspell" />
     </histories>
     <option name="languageScores">
       <map>
