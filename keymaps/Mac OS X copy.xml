@@ -9,9 +9,6 @@
   <action id="ActivateCodeOutlineToolWindow">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="ActivateEventLogToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -105,6 +102,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
   <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
