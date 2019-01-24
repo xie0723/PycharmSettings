@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="screenshot" />
       <item value="Set the amount of time that the script should wait during an&#10;           execute_async_script call before throwing an error" />
       <item value="Spawning" />
       <item value="presence of element located" />
@@ -101,12 +102,11 @@
       <item value="14:15&#9;Scratch Plugin: Click here to migrate scratches to folder with IDE built-in scratches. Both plugin and IDE scratches will be kept. In case of conflicting names, files will be prefixed with '_'." />
       <item value="Provides hunspell dictionary support" />
       <item value="hunspell" />
-      <item value="Artifact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
