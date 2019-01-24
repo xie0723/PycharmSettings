@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="headless" />
+      <item value="deprecated" />
+      <item value="available via screen" />
       <item value=" Display manpage. " />
       <item value="graph" />
       <item value="screenshot" />
@@ -99,14 +102,11 @@
       <item value="component Will Mount" />
       <item value="many" />
       <item value="purchase" />
-      <item value="09:12&#9;Mybatis Plugin: Thank you for evaluating Mybatis Plugin." />
-      <item value="current stage" />
-      <item value="14:15&#9;Scratch Plugin: Click here to migrate scratches to folder with IDE built-in scratches. Both plugin and IDE scratches will be kept. In case of conflicting names, files will be prefixed with '_'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="159" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
