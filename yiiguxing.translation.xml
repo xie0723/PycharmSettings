@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="duration" />
+      <item value="side" />
       <item value="judge" />
       <item value="soft time limit" />
       <item value="scheduler" />
@@ -100,13 +102,11 @@
       <item value="Reload a fresh instance from the database." />
       <item value="alter column" />
       <item value="alter" />
-      <item value="file, e.g., for bringing a variable declaration closer to the variable usage." />
-      <item value="metrics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="172" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
