@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="judge" />
+      <item value="soft time limit" />
+      <item value="scheduler" />
+      <item value="erase" />
+      <item value="histogram" />
       <item value="Receipt" />
       <item value="merge Two Lists" />
       <item value="prepend" />
@@ -87,7 +92,6 @@
       <item value="This plugin allows you to sort your code depending on indentation, comments, brackets etc. eg." />
       <item value="interact" />
       <item value="invoke" />
-      <item value="scheduler" />
       <item value="FORCE" />
       <item value="trigger" />
       <item value="sync" />
@@ -98,15 +102,11 @@
       <item value="alter" />
       <item value="file, e.g., for bringing a variable declaration closer to the variable usage." />
       <item value="metrics" />
-      <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
-      <item value="Introducing Makefile tool window: all project Makefiles in a single window. The plugin now also builds an index of" />
-      <item value="skip actions" />
-      <item value="skip stage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
