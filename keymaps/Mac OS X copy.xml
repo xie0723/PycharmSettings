@@ -69,9 +69,6 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
-  <action id="RenameFile">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
   <action id="Run">
