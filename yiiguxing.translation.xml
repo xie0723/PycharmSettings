@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="state" />
+      <item value="stat" />
       <item value="monitor" />
       <item value="regions" />
       <item value="duration" />
@@ -100,13 +102,11 @@
       <item value="trigger" />
       <item value="sync" />
       <item value="Invoke" />
-      <item value="delete" />
-      <item value="Reload a fresh instance from the database." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="176" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
