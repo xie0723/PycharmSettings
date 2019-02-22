@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Stepik plugin for code challenges on Python" />
       <item value="program" />
       <item value="frontend" />
       <item value="frontent" />
@@ -101,7 +102,6 @@
       <item value="This plugin enables support for GNU GetText files (*.po)" />
       <item value="Visualisation of concurrent events in a running program" />
       <item value="accessibility" />
-      <item value="alphabetically" />
     </histories>
     <option name="languageScores">
       <map>
