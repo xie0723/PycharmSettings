@@ -5,6 +5,7 @@
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="pytest_tutorial" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="TOML" />
     </extensionMap>
   </component>
 </application>
