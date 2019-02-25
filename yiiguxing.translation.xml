@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="justify" />
+      <item value="label" />
       <item value="clear up code" />
       <item value="compat" />
       <item value="compatibility" />
@@ -100,13 +102,11 @@
       <item value="terminated by" />
       <item value="Standard Spanish dictionary for Spell Checker plugin" />
       <item value="Exclude symlinks in subdirectories." />
-      <item value="This plugin allows you to manage your own snippets." />
-      <item value="persistently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="188" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
