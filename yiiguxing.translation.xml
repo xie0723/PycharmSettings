@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="clear up code" />
+      <item value="compat" />
+      <item value="compatibility" />
+      <item value="signup" />
       <item value="Stepik plugin for code challenges on Python" />
       <item value="program" />
       <item value="frontend" />
@@ -98,15 +102,11 @@
       <item value="Exclude symlinks in subdirectories." />
       <item value="This plugin allows you to manage your own snippets." />
       <item value="persistently" />
-      <item value="Synchronize settings for IntelliJ-based IDEs across all installations." />
-      <item value="This plugin enables support for GNU GetText files (*.po)" />
-      <item value="Visualisation of concurrent events in a running program" />
-      <item value="accessibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="186" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
