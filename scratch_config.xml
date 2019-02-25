@@ -3,10 +3,10 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.py" />
-        <option value="lrh.db" />
         <option value="scratch.md" />
-        <option value="scratch_1.py" />
+        <option value="demo.py" />
+        <option value="__init__.py" />
+        <option value="settings.py" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch.md" />
