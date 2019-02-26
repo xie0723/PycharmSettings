@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="loaning" />
+      <item value="approve" />
       <item value="性能测试" />
       <item value="category" />
       <item value="Dummy Process" />
@@ -100,13 +102,11 @@
       <item value="gevent" />
       <item value="graceful" />
       <item value="other" />
-      <item value="othen" />
-      <item value="host category" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="201" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
