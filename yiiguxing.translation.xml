@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="installable" />
       <item value="sale" />
       <item value="sales" />
       <item value="loaning" />
@@ -101,7 +102,6 @@
       <item value="slash" />
       <item value="dummy" />
       <item value="gthread" />
-      <item value="gevent" />
     </histories>
     <option name="languageScores">
       <map>
