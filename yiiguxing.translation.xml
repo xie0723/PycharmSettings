@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Arbiter booted" />
+      <item value="Bring the number of pool processes up to the specified number,         for use after reaping workers which have exited" />
       <item value="Bring the number of pool processes up to the specified number,&#10;        for use after reaping workers which have exited" />
       <item value="Multiple rows were found for one()" />
       <item value="installable" />
@@ -100,8 +102,6 @@
       <item value="intersection" />
       <item value="IMPORTS" />
       <item value="Iterate over the names of all available jobs" />
-      <item value="Modify" />
-      <item value="slash" />
     </histories>
     <option name="languageScores">
       <map>
