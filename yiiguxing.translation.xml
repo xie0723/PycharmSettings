@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Multiple rows were found for one()" />
       <item value="installable" />
       <item value="sale" />
       <item value="sales" />
@@ -101,12 +102,11 @@
       <item value="Modify" />
       <item value="slash" />
       <item value="dummy" />
-      <item value="gthread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="204" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
