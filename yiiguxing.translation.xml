@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="label" />
       <item value="concurrent build" />
       <item value="Arbiter booted" />
       <item value="Bring the number of pool processes up to the specified number,         for use after reaping workers which have exited" />
@@ -24,7 +25,6 @@
       <item value="Booting worker with" />
       <item value="footer" />
       <item value="justify" />
-      <item value="label" />
       <item value="clear up code" />
       <item value="compat" />
       <item value="compatibility" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="208" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
