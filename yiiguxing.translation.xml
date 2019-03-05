@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="marshmallow" />
       <item value="The attributes to make visible" />
       <item value="visible" />
       <item value="program" />
@@ -101,7 +102,6 @@
       <item value="sticky" />
       <item value="assume the command was&#10;        # a success" />
       <item value="assume" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
