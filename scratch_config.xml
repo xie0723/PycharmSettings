@@ -6,13 +6,12 @@
         <option value="scratch.md" />
         <option value="demo.py" />
         <option value="__init__.py" />
-        <option value="settings.py" />
         <option value="scratch.py" />
         <option value="scratch_1.json" />
         <option value="scratch_1.py" />
+        <option value="solution.py" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="settings.py" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
