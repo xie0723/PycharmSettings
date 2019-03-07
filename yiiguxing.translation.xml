@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="entities" />
       <item value="alter" />
       <item value="Getding" />
       <item value="prefix" />
@@ -82,7 +83,6 @@
       <item value="Continuous" />
       <item value="fragments" />
       <item value="doseq" />
-      <item value="entities" />
       <item value="Foreign" />
       <item value="populates" />
       <item value="manual" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="217" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
