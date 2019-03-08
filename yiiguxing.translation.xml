@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future" />
       <item value="entities" />
       <item value="alter" />
       <item value="Getding" />
@@ -101,12 +102,11 @@
       <item value="To set the timeout for calls to&#10;           execute_async_script" />
       <item value="This method only needs to be called one&#10;           time per session" />
       <item value="per session" />
-      <item value="Sets a sticky timeout to implicitly wait for an element to be found," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
