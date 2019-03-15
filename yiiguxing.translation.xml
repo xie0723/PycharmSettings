@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="controls" />
       <item value="src" />
       <item value="The maximum number of threads that can be used to                 execute the given calls" />
       <item value="The maximum number of threads that can be used to&#10;                execute the given calls" />
@@ -101,12 +102,11 @@
       <item value="download throughput" />
       <item value="additional latency" />
       <item value="latency" />
-      <item value="offline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="223" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
