@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="src" />
+      <item value="The maximum number of threads that can be used to                 execute the given calls" />
       <item value="The maximum number of threads that can be used to&#10;                execute the given calls" />
       <item value="Anonymous" />
       <item value="references" />
@@ -100,8 +102,6 @@
       <item value="additional latency" />
       <item value="latency" />
       <item value="offline" />
-      <item value="Sets Chrome network emulation settings" />
-      <item value="network emulation" />
     </histories>
     <option name="languageScores">
       <map>
