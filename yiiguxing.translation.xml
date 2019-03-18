@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Schema" />
+      <item value="entities" />
       <item value="controls" />
       <item value="src" />
       <item value="The maximum number of threads that can be used to                 execute the given calls" />
@@ -10,7 +12,6 @@
       <item value="references" />
       <item value="revoke" />
       <item value="SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future" />
-      <item value="entities" />
       <item value="alter" />
       <item value="Getding" />
       <item value="prefix" />
@@ -101,12 +102,11 @@
       <item value="upload throughput" />
       <item value="download throughput" />
       <item value="additional latency" />
-      <item value="latency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
