@@ -10,6 +10,7 @@
         <option value="scratch_1.json" />
         <option value="scratch_1.py" />
         <option value="solution.py" />
+        <option value="redis_demo.py" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="solution.py" />
