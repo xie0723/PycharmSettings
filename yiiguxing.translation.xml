@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="智学" />
+      <item value="Audition" />
+      <item value="Parental" />
       <item value="severity" />
       <item value="time" />
       <item value="pending" />
@@ -99,14 +102,11 @@
       <item value="doseq" />
       <item value="Foreign" />
       <item value="populates" />
-      <item value="manual" />
-      <item value="list of command line arguments" />
-      <item value="WC1 None passing a string to pytest.main() is deprecated, pass a list of arguments instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="229" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
