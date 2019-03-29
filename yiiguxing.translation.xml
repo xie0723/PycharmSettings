@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="业务" />
       <item value="Summary" />
       <item value="智学" />
       <item value="Audition" />
@@ -101,12 +102,11 @@
       <item value="Continuous" />
       <item value="fragments" />
       <item value="doseq" />
-      <item value="Foreign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
