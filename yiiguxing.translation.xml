@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="select sql str" />
+      <item value="delete sql str" />
+      <item value="update sql str" />
+      <item value="insert sql str" />
+      <item value="Api Claration" />
       <item value="声明" />
       <item value="Claration" />
       <item value="interfacede Claration" />
@@ -97,16 +102,11 @@
       <item value="headless" />
       <item value="available via screen" />
       <item value=" Display manpage. " />
-      <item value="graph" />
-      <item value="screenshot" />
-      <item value="Set the amount of time that the script should wait during an&#10;           execute_async_script call before throwing an error" />
-      <item value="Spawning" />
-      <item value="presence of element located" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
