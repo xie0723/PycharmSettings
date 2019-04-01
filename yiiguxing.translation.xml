@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="generated envelop" />
+      <item value="envelop" />
       <item value="headers" />
       <item value="Captured log call" />
       <item value="RERUN" />
@@ -9,7 +11,6 @@
       <item value="Parental" />
       <item value="后缀" />
       <item value="缺省参数" />
-      <item value="envelop" />
       <item value="verbose" />
       <item value="校验" />
       <item value="description" />
@@ -101,12 +102,11 @@
       <item value="monitor" />
       <item value="regions" />
       <item value="duration" />
-      <item value="side" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="261" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
