@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="headers" />
       <item value="Captured log call" />
       <item value="RERUN" />
       <item value="request() got multiple values for keyword argument 'url'" />
@@ -101,12 +102,11 @@
       <item value="regions" />
       <item value="duration" />
       <item value="side" />
-      <item value="judge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="259" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
