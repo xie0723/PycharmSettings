@@ -17,4 +17,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
