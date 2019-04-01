@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="后缀" />
       <item value="缺省参数" />
       <item value="envelop" />
       <item value="verbose" />
@@ -101,12 +102,11 @@
       <item value="soft time limit" />
       <item value="scheduler" />
       <item value="erase" />
-      <item value="histogram" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
