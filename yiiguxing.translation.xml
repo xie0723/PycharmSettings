@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="business" />
       <item value="select sql str" />
       <item value="delete sql str" />
       <item value="update sql str" />
@@ -101,11 +102,10 @@
       <item value="constructor" />
       <item value="headless" />
       <item value="available via screen" />
-      <item value=" Display manpage. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
+        <entry key="CHINESE" value="252" />
         <entry key="ENGLISH" value="249" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
