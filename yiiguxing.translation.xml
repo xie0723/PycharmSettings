@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Parental" />
       <item value="后缀" />
       <item value="缺省参数" />
       <item value="envelop" />
@@ -32,7 +33,6 @@
       <item value="Summary" />
       <item value="智学" />
       <item value="Audition" />
-      <item value="Parental" />
       <item value="severity" />
       <item value="time" />
       <item value="pending" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
