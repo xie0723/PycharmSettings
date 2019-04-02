@@ -1,0 +1,19 @@
+<application>
+  <component name="AccountStore">
+    <option name="accountString" value="{&quot;阿里云&quot;:{&quot;profileName&quot;:&quot;阿里云&quot;,&quot;ak&quot;:&quot;LTAI7BvGD4bSC9ij&quot;,&quot;secret&quot;:&quot;onS6MqEUcdLUjP6Y1sC7Nfna1LfYwK&quot;,&quot;show&quot;:false}}" />
+    <option name="allAccount">
+      <map>
+        <entry key="阿里云">
+          <value>
+            <AccountModel>
+              <option name="ak" value="LTAI7BvGD4bSC9ij" />
+              <option name="profileName" value="阿里云" />
+              <option name="secret" value="onS6MqEUcdLUjP6Y1sC7Nfna1LfYwK" />
+            </AccountModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="defaultProfile" value="阿里云" />
+  </component>
+</application>
