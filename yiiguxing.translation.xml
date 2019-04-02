@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="teacher" />
+      <item value="student" />
+      <item value="studnet" />
+      <item value="parment" />
+      <item value="父亲" />
       <item value="平台" />
       <item value="RETRY" />
       <item value="generated envelop" />
@@ -97,16 +102,11 @@
       <item value="frontent" />
       <item value="Automatic upload" />
       <item value="entry" />
-      <item value="Environment variable overrides for local development" />
-      <item value="marshal" />
-      <item value="state" />
-      <item value="stat" />
-      <item value="monitor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
