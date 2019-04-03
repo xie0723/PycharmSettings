@@ -2,11 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="continuation line over-indented for hanging indent" />
+      <item value="blank line contains whitespace" />
       <item value="问题" />
       <item value="porblem" />
       <item value="complexity" />
-      <item value="continuation line over-indented for hanging indent" />
-      <item value="blank line contains whitespace" />
       <item value="teacher" />
       <item value="student" />
       <item value="studnet" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="269" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>

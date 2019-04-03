@@ -16,7 +16,7 @@
   <tool name="flake8" description="flake8-code-check" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$PyInterpreterDirectory$/python" />
-      <option name="PARAMETERS" value="-m flake8 --max-complexity 10 --ignore E501 W293 $FilePath$" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
