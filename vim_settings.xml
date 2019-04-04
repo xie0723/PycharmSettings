@@ -2,15 +2,52 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Python Console" timestamp="1554342644478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1554342939255">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="34" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="23" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">IyB5bWwuYWxsb3dfdW5pY29kZSA9IFRydWUK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Iwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyB5bWwuYWxsb3dfdW5pY29kZSA9IFRydWUK</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
