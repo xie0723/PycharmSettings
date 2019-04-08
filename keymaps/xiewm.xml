@@ -1,0 +1,8 @@
+<keymap version="1" name="xiewm" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+</keymap>
