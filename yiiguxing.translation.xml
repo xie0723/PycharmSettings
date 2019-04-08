@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="additional optional" />
+      <item value="inherited" />
+      <item value="exactly" />
+      <item value="slightly" />
+      <item value="statistics" />
+      <item value="Http Session" />
+      <item value="in order&#10;    to be able to log in and out of websites" />
+      <item value="holding (session-) cookies" />
+      <item value="performing" />
       <item value=" trailing whitespace" />
       <item value="marshalled" />
       <item value="continuation line over-indented for hanging indent" />
@@ -93,20 +102,11 @@
       <item value="Dummy Process" />
       <item value="processes" />
       <item value="Bring the number of pool processes up to the specified number,&#10;        for use after reaping workers which have exited." />
-      <item value="repopulate" />
-      <item value="winch" />
-      <item value="DummyProcess" />
-      <item value="started daemon" />
-      <item value="Booting worker with" />
-      <item value="footer" />
-      <item value="justify" />
-      <item value="clear up code" />
-      <item value="compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="279" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
