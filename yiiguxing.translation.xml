@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="intance" />
+      <item value="instance" />
       <item value="console" />
       <item value="frontend" />
       <item value="import requests" />
@@ -100,12 +102,10 @@
       <item value="installable" />
       <item value="sale" />
       <item value="sales" />
-      <item value="loaning" />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
+        <entry key="CHINESE" value="288" />
         <entry key="ENGLISH" value="282" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
