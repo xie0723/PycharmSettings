@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="客服" />
       <item value="数据可视化" />
       <item value="intance" />
       <item value="instance" />
@@ -101,12 +102,11 @@
       <item value="Bring the number of pool processes up to the specified number,&#10;        for use after reaping workers which have exited" />
       <item value="Multiple rows were found for one()" />
       <item value="installable" />
-      <item value="sale" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
