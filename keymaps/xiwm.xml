@@ -1,0 +1,9 @@
+<keymap version="1" name="xiwm" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>
