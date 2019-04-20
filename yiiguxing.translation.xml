@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Test Sequense" />
+      <item value="exception stage" />
+      <item value="each testcase is corresponding to a file." />
+      <item value="corresponding" />
       <item value="graceful" />
       <item value="客服" />
       <item value="数据可视化" />
@@ -98,15 +102,11 @@
       <item value="attempt" />
       <item value="label" />
       <item value="concurrent build" />
-      <item value="Arbiter booted" />
-      <item value="Bring the number of pool processes up to the specified number,         for use after reaping workers which have exited" />
-      <item value="Bring the number of pool processes up to the specified number,&#10;        for use after reaping workers which have exited" />
-      <item value="Multiple rows were found for one()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="289" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
