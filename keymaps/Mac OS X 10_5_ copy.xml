@@ -6,4 +6,7 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
 </keymap>
