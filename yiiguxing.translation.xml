@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="primary key" />
+      <item value="合同" />
+      <item value="modules" />
+      <item value="模块" />
       <item value="production" />
       <item value="TEARDOWN" />
       <item value="SQLALCHEMY COMMIT ON TEARDOWN" />
@@ -98,15 +102,11 @@
       <item value="controls" />
       <item value="src" />
       <item value="The maximum number of threads that can be used to                 execute the given calls" />
-      <item value="The maximum number of threads that can be used to&#10;                execute the given calls" />
-      <item value="Anonymous" />
-      <item value="references" />
-      <item value="revoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="306" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
