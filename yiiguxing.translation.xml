@@ -2,13 +2,17 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="surrogate" />
+      <item value="utilities" />
+      <item value="compatibility module" />
+      <item value="clear" />
+      <item value="clean" />
       <item value="notice" />
       <item value="The implementation of create_student_demo violates its contract&#10;        because implementation requires too many arguments." />
       <item value="contract" />
       <item value="violates" />
       <item value="Broken Method Implementation" />
       <item value="TIMESTAMP" />
-      <item value="utilities" />
       <item value="surrogate integer" />
       <item value="Borrowed from Flask-Script," />
       <item value="recursively" />
@@ -98,15 +102,11 @@
       <item value="params" />
       <item value="路径" />
       <item value="prompt" />
-      <item value="RuntimeError: Click will abort further execution because Python 3 was configured to use ASCII as encoding for the environment.  Consult http://click.pocoo.org/python3/for mitigation steps. " />
-      <item value="calling yaml.load() without Loader=... is deprecated" />
-      <item value="deprecated" />
-      <item value="业务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="321" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
