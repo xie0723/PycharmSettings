@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="collections" />
       <item value="trailing whitespace" />
       <item value="工具" />
       <item value="utils" />
@@ -101,11 +102,10 @@
       <item value="声明" />
       <item value="Claration" />
       <item value="interfacede Claration" />
-      <item value="接口声明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
+        <entry key="CHINESE" value="332" />
         <entry key="ENGLISH" value="324" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
