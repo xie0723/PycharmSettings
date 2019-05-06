@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="descended" />
+      <item value="yields all paths below the current one" />
+      <item value="countloc" />
+      <item value="cleanup" />
+      <item value="lookup" />
+      <item value="exitstatus" />
       <item value="investigate unification" />
       <item value="performing" />
       <item value="after performing an in-process test run" />
@@ -96,17 +102,11 @@
       <item value="Parental" />
       <item value="后缀" />
       <item value="缺省参数" />
-      <item value="verbose" />
-      <item value="校验" />
-      <item value="description" />
-      <item value="response" />
-      <item value="responese" />
-      <item value="business" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="339" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
