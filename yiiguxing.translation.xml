@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="performing" />
+      <item value="after performing an in-process test run" />
       <item value="Make a fresh ConnectionPool of the desired type" />
       <item value="least-recently-used keys" />
       <item value="least-recently-used keys beyond" />
@@ -70,7 +72,6 @@
       <item value="Http Session" />
       <item value="in order&#10;    to be able to log in and out of websites" />
       <item value="holding (session-) cookies" />
-      <item value="performing" />
       <item value=" trailing whitespace" />
       <item value="marshalled" />
       <item value="continuation line over-indented for hanging indent" />
@@ -101,12 +102,11 @@
       <item value="responese" />
       <item value="business" />
       <item value="select sql str" />
-      <item value="delete sql str" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="332" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
