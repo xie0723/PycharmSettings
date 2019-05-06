@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="investigate unification" />
       <item value="performing" />
       <item value="after performing an in-process test run" />
       <item value="Make a fresh ConnectionPool of the desired type" />
@@ -101,12 +102,11 @@
       <item value="response" />
       <item value="responese" />
       <item value="business" />
-      <item value="select sql str" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="333" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
