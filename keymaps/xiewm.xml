@@ -1,5 +1,0 @@
-<keymap version="1" name="xiewm" parent="Mac OS X 10.5+">
-  <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
-</keymap>
