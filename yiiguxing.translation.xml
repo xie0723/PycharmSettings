@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="自定义" />
       <item value="entity" />
       <item value="test structure" />
       <item value="依赖" />
@@ -101,12 +102,11 @@
       <item value="envelop" />
       <item value="headers" />
       <item value="Captured log call" />
-      <item value="RERUN" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
