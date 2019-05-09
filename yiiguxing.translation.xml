@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="business" />
       <item value="response" />
       <item value="自定义" />
       <item value="entity" />
@@ -101,11 +102,10 @@
       <item value="generated envelop" />
       <item value="envelop" />
       <item value="headers" />
-      <item value="Captured log call" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
+        <entry key="CHINESE" value="353" />
         <entry key="ENGLISH" value="344" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
