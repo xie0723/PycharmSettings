@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="recursive" />
       <item value="business" />
       <item value="response" />
       <item value="自定义" />
@@ -101,12 +102,11 @@
       <item value="RETRY" />
       <item value="generated envelop" />
       <item value="envelop" />
-      <item value="headers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="345" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
