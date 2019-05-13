@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="internal" />
+      <item value="dispose" />
+      <item value="A context manager for executing a transaction on this Database" />
+      <item value="transaction" />
       <item value="smoke" />
       <item value="duplicated package or module name taking precedence in sys.path" />
       <item value="recursive" />
@@ -98,16 +102,13 @@
       <item value="teacher" />
       <item value="student" />
       <item value="studnet" />
-      <item value="parment" />
-      <item value="父亲" />
-      <item value="平台" />
-      <item value="RETRY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="350" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
       </map>
     </option>
