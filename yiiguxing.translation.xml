@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="generics" />
       <item value="established" />
       <item value="internal" />
       <item value="dispose" />
@@ -101,12 +102,11 @@
       <item value="porblem" />
       <item value="complexity" />
       <item value="teacher" />
-      <item value="student" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="351" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
