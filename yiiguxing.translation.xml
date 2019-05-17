@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="No active exception to reraise" />
+      <item value="标示" />
+      <item value="装饰器" />
+      <item value="actual" />
       <item value="实际" />
       <item value="compare" />
       <item value="Specify 'extend_existing=True' to redefine options and columns on an existing Table object." />
@@ -98,15 +102,11 @@
       <item value="in order&#10;    to be able to log in and out of websites" />
       <item value="holding (session-) cookies" />
       <item value=" trailing whitespace" />
-      <item value="marshalled" />
-      <item value="continuation line over-indented for hanging indent" />
-      <item value="blank line contains whitespace" />
-      <item value="问题" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="358" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
