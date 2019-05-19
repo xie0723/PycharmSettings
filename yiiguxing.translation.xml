@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="business" />
       <item value="we'll get an infinite recursion when doing SSL/HTTPS requests" />
       <item value="on_start is called when a Locust start before any task is scheduled" />
       <item value="any task is scheduled" />
@@ -21,7 +22,6 @@
       <item value="smoke" />
       <item value="duplicated package or module name taking precedence in sys.path" />
       <item value="recursive" />
-      <item value="business" />
       <item value="response" />
       <item value="自定义" />
       <item value="entity" />
@@ -105,7 +105,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
+        <entry key="CHINESE" value="372" />
         <entry key="ENGLISH" value="361" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
