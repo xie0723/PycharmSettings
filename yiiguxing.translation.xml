@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="压力" />
       <item value="目录结构" />
       <item value="business" />
       <item value="we'll get an infinite recursion when doing SSL/HTTPS requests" />
@@ -101,12 +102,11 @@
       <item value="inherited" />
       <item value="exactly" />
       <item value="slightly" />
-      <item value="statistics" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
