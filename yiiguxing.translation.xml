@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="elapsed" />
       <item value="no upstream branch" />
       <item value="其他" />
       <item value="正确" />
@@ -101,12 +102,11 @@
       <item value="数据可视化" />
       <item value="intance" />
       <item value="instance" />
-      <item value="console" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="370" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
