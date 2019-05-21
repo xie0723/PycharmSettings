@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="其他" />
+      <item value="正确" />
+      <item value="结构" />
       <item value="retail" />
       <item value="选择" />
       <item value="老师" />
@@ -99,14 +102,11 @@
       <item value="instance" />
       <item value="console" />
       <item value="frontend" />
-      <item value="import requests" />
-      <item value="domain" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="ENGLISH" value="369" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
