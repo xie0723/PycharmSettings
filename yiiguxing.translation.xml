@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="leaving logger event level as is" />
       <item value="Captured log call" />
       <item value="生成" />
       <item value="颗粒度" />
@@ -101,12 +102,11 @@
       <item value="each testcase is corresponding to a file." />
       <item value="corresponding" />
       <item value="graceful" />
-      <item value="客服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="374" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
