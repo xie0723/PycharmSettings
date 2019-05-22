@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="依赖" />
       <item value="identify if python is being run in interactive mode. If so, disable logging." />
       <item value="identify if python is being run in interactive mode. If so, disable logging" />
       <item value="leaving logger event level as is" />
@@ -43,7 +44,6 @@
       <item value="自定义" />
       <item value="entity" />
       <item value="test structure" />
-      <item value="依赖" />
       <item value="descended" />
       <item value="yields all paths below the current one" />
       <item value="countloc" />
@@ -106,7 +106,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
