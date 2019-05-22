@@ -4,6 +4,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="10000" />
     <option name="COMPLETION_CASE_SENSITIVE" value="1" />
@@ -19,21 +20,9 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="MarkdownFoldingSettings">
-    <option name="COLLAPSE_VERBATIM_BLOCKS" value="true" />
-    <option name="COLLAPSE_CODE_FENCE_BLOCKS" value="true" />
-    <option name="COLLAPSE_REFERENCES" value="true" />
-    <option name="COLLAPSE_EXPLICIT_LINKS" value="true" />
-    <option name="COLLAPSE_MULTILINE_URL_IMAGES" value="true" />
-    <option name="COLLAPSE_JEKYLL_FRONT_MATTER" value="true" />
-    <option name="COLLAPSE_HEADINGS_1" value="true" />
-    <option name="COLLAPSE_HEADINGS_2" value="true" />
-    <option name="COLLAPSE_HEADINGS_3" value="true" />
-    <option name="COLLAPSE_HEADINGS_4" value="true" />
-    <option name="COLLAPSE_HEADINGS_5" value="true" />
-    <option name="COLLAPSE_HEADINGS_6" value="true" />
-    <option name="COLLAPSE_LIST_ITEMS" value="true" />
-    <option name="COMMENTS" value="true" />
-    <option name="MACROS" value="true" />
+    <option name="COLLAPSE_IMAGES" value="false" />
+    <option name="COLLAPSE_EMBEDDED_IMAGES" value="false" />
+    <option name="COLLAPSE_SIM_TOC" value="false" />
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true" INVERT_ON_ORDER="true">
     <option name="autoAliasTable" value="true" />
