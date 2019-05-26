@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="快捷" />
       <item value="实际值" />
       <item value="Broad" />
       <item value="noinspection PyBroadException" />
@@ -101,12 +102,11 @@
       <item value="significant" />
       <item value="SQLALCHEMY TRACK MODIFICATIONS" />
       <item value="Neither" />
-      <item value="PREFIX" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
