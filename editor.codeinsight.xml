@@ -1,8 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
   <component name="CodeInsightSettings">
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
@@ -29,8 +25,7 @@
     <option name="invertOrderInOnClause" value="true" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
-    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_XML_TAGS" value="true" />
     <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
