@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="No active exception to reraise" />
       <item value="快捷" />
       <item value="实际值" />
       <item value="Broad" />
@@ -31,7 +32,6 @@
       <item value="we'll get an infinite recursion when doing SSL/HTTPS requests" />
       <item value="on_start is called when a Locust start before any task is scheduled" />
       <item value="any task is scheduled" />
-      <item value="No active exception to reraise" />
       <item value="标示" />
       <item value="装饰器" />
       <item value="actual" />
@@ -105,7 +105,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
+        <entry key="CHINESE" value="384" />
         <entry key="ENGLISH" value="384" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
