@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Plan" />
+      <item value="作者" />
+      <item value="auth" />
       <item value="present" />
       <item value="duration" />
       <item value="WARNING" />
@@ -99,14 +102,11 @@
       <item value="合同" />
       <item value="modules" />
       <item value="模块" />
-      <item value="production" />
-      <item value="TEARDOWN" />
-      <item value="SQLALCHEMY COMMIT ON TEARDOWN" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="394" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
