@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Print stats in the console" />
+      <item value="Show list of possible locust classes and exit" />
+      <item value="print json data of the locust classes' task execution ratio " />
       <item value="host" />
       <item value="default" />
       <item value="不确定条件查询" />
@@ -99,13 +102,10 @@
       <item value="clean" />
       <item value="notice" />
       <item value="The implementation of create_student_demo violates its contract&#10;        because implementation requires too many arguments." />
-      <item value="contract" />
-      <item value="violates" />
-      <item value="Broken Method Implementation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
+        <entry key="CHINESE" value="401" />
         <entry key="ENGLISH" value="406" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
