@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="代码结构" />
+      <item value="elapsed" />
+      <item value="消耗" />
+      <item value="其他" />
       <item value="Print stats in the console" />
       <item value="Show list of possible locust classes and exit" />
       <item value="print json data of the locust classes' task execution ratio " />
@@ -40,9 +44,7 @@
       <item value="Captured log call" />
       <item value="生成" />
       <item value="颗粒度" />
-      <item value="elapsed" />
       <item value="no upstream branch" />
-      <item value="其他" />
       <item value="正确" />
       <item value="结构" />
       <item value="retail" />
@@ -100,13 +102,11 @@
       <item value="compatibility module" />
       <item value="clear" />
       <item value="clean" />
-      <item value="notice" />
-      <item value="The implementation of create_student_demo violates its contract&#10;        because implementation requires too many arguments." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="410" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
