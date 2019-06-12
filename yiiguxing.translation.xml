@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="persisted" />
+      <item value="Invalid Request Error" />
       <item value="字段" />
       <item value="toast" />
       <item value="代码结构" />
@@ -100,12 +102,10 @@
       <item value="操作" />
       <item value="alter column" />
       <item value="surrogate" />
-      <item value="utilities" />
-      <item value="compatibility module" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
+        <entry key="CHINESE" value="405" />
         <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
