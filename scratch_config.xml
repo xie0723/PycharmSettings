@@ -3,17 +3,16 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.md" />
-        <option value="demo.py" />
-        <option value="__init__.py" />
         <option value="scratch.py" />
         <option value="scratch_1.json" />
-        <option value="scratch_1.py" />
-        <option value="solution.py" />
-        <option value="redis_demo.py" />
+        <option value="client.py" />
+        <option value="server.py" />
+        <option value="package.json" />
+        <option value="scratch.html" />
+        <option value="scratch.json" />
+        <option value="flask_restplus.py" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="demo.py" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
