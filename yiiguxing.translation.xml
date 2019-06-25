@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="write" />
       <item value="domain" />
       <item value="表达式" />
       <item value="type" />
@@ -101,12 +102,11 @@
       <item value="maintains" />
       <item value="dict-like container" />
       <item value="collections" />
-      <item value="trailing whitespace" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="414" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
