@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Model None not registered" />
       <item value="Nested" />
       <item value="write" />
       <item value="domain" />
@@ -101,12 +102,11 @@
       <item value="least-recently-used keys beyond" />
       <item value="throwing away" />
       <item value="maintains" />
-      <item value="dict-like container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="416" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
