@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="严重" />
       <item value="registered" />
       <item value="Model None not registered" />
       <item value="Nested" />
@@ -101,12 +102,11 @@
       <item value="Make a fresh ConnectionPool of the desired type" />
       <item value="least-recently-used keys" />
       <item value="least-recently-used keys beyond" />
-      <item value="throwing away" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
