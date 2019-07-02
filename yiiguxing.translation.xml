@@ -118,7 +118,7 @@
     <option name="foldOriginal" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
-    <option name="translator" value="ai.youdao" />
+    <option name="translator" value="fanyi.baidu" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="29f2e7be57265246" />
