@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="Base Request" />
       <item value="严重" />
       <item value="registered" />
       <item value="Model None not registered" />
@@ -101,12 +102,11 @@
       <item value="after performing an in-process test run" />
       <item value="Make a fresh ConnectionPool of the desired type" />
       <item value="least-recently-used keys" />
-      <item value="least-recently-used keys beyond" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="421" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -118,7 +118,7 @@
     <option name="foldOriginal" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
-    <option name="translator" value="fanyi.baidu" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="29f2e7be57265246" />
