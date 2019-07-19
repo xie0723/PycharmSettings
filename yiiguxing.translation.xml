@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="real signature unknown" />
       <item value="genexpr" />
       <item value="keys while throwing away the least-recently-used keys beyond     ``maxsize" />
       <item value="scalable frontend automation tests" />
@@ -101,12 +102,11 @@
       <item value="lookup" />
       <item value="exitstatus" />
       <item value="investigate unification" />
-      <item value="performing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="423" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
