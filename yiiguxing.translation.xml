@@ -2,6 +2,43 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="real signature unknown" />
+      <item value="genexpr" />
+      <item value="keys while throwing away the least-recently-used keys beyond     ``maxsize" />
+      <item value="scalable frontend automation tests" />
+      <item value="Base Request" />
+      <item value="严重" />
+      <item value="registered" />
+      <item value="Model None not registered" />
+      <item value="Nested" />
+      <item value="write" />
+      <item value="domain" />
+      <item value="表达式" />
+      <item value="type" />
+      <item value="flag" />
+      <item value="module" />
+      <item value="persisted" />
+      <item value="Invalid Request Error" />
+      <item value="字段" />
+      <item value="toast" />
+      <item value="代码结构" />
+      <item value="elapsed" />
+      <item value="消耗" />
+      <item value="其他" />
+      <item value="Print stats in the console" />
+      <item value="Show list of possible locust classes and exit" />
+      <item value="print json data of the locust classes' task execution ratio " />
+      <item value="host" />
+      <item value="default" />
+      <item value="不确定条件查询" />
+      <item value="回归测试" />
+      <item value="回归" />
+      <item value="性能测试" />
+      <item value="性能" />
+      <item value="primary key" />
+      <item value="工号" />
+      <item value="avator" />
+      <item value="头像" />
       <item value="Plan" />
       <item value="作者" />
       <item value="auth" />
@@ -26,9 +63,7 @@
       <item value="Captured log call" />
       <item value="生成" />
       <item value="颗粒度" />
-      <item value="elapsed" />
       <item value="no upstream branch" />
-      <item value="其他" />
       <item value="正确" />
       <item value="结构" />
       <item value="retail" />
@@ -67,46 +102,11 @@
       <item value="lookup" />
       <item value="exitstatus" />
       <item value="investigate unification" />
-      <item value="performing" />
-      <item value="after performing an in-process test run" />
-      <item value="Make a fresh ConnectionPool of the desired type" />
-      <item value="least-recently-used keys" />
-      <item value="least-recently-used keys beyond" />
-      <item value="throwing away" />
-      <item value="maintains" />
-      <item value="dict-like container" />
-      <item value="collections" />
-      <item value="trailing whitespace" />
-      <item value="工具" />
-      <item value="utils" />
-      <item value="操作" />
-      <item value="alter column" />
-      <item value="surrogate" />
-      <item value="utilities" />
-      <item value="compatibility module" />
-      <item value="clear" />
-      <item value="clean" />
-      <item value="notice" />
-      <item value="The implementation of create_student_demo violates its contract&#10;        because implementation requires too many arguments." />
-      <item value="contract" />
-      <item value="violates" />
-      <item value="Broken Method Implementation" />
-      <item value="TIMESTAMP" />
-      <item value="surrogate integer" />
-      <item value="Borrowed from Flask-Script," />
-      <item value="recursively" />
-      <item value="CURRENT TIMESTAMP" />
-      <item value="nullable" />
-      <item value="marshal with" />
-      <item value="primary key" />
-      <item value="合同" />
-      <item value="modules" />
-      <item value="模块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="423" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
