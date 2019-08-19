@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="delay" />
+      <item value="未来" />
       <item value="计算" />
       <item value="voyage" />
       <item value="延迟" />
@@ -100,13 +102,11 @@
       <item value="response" />
       <item value="自定义" />
       <item value="entity" />
-      <item value="test structure" />
-      <item value="descended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="428" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="ROMANIAN" value="3" />
