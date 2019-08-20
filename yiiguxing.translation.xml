@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="计算" />
+      <item value="voyage" />
       <item value="分库分表" />
       <item value="分表" />
       <item value="delta" />
@@ -15,8 +17,6 @@
       <item value="次数" />
       <item value="delay" />
       <item value="未来" />
-      <item value="计算" />
-      <item value="voyage" />
       <item value="延迟" />
       <item value="定位器" />
       <item value="spider tracking voyage" />
@@ -105,10 +105,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="437" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
       </map>
