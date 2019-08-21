@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="拼写" />
+      <item value="THURSDAY" />
+      <item value="SATURDAY" />
       <item value="指标" />
       <item value="命中" />
       <item value="序列号" />
@@ -99,14 +102,11 @@
       <item value="on_start is called when a Locust start before any task is scheduled" />
       <item value="any task is scheduled" />
       <item value="标示" />
-      <item value="装饰器" />
-      <item value="actual" />
-      <item value="实际" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="443" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
