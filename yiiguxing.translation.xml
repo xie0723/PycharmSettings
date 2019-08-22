@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="feature" />
+      <item value="future" />
+      <item value="覆盖率" />
+      <item value="carrier" />
+      <item value="carricode" />
       <item value="histogram" />
       <item value="拼写" />
       <item value="THURSDAY" />
@@ -97,16 +102,11 @@
       <item value="老师" />
       <item value="teacher" />
       <item value="压力" />
-      <item value="目录结构" />
-      <item value="business" />
-      <item value="we'll get an infinite recursion when doing SSL/HTTPS requests" />
-      <item value="on_start is called when a Locust start before any task is scheduled" />
-      <item value="any task is scheduled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="445" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
