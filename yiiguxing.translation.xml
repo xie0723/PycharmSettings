@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="no&#10;        activity is detected on a connection for eight hours" />
+      <item value="in particular will disconnect automatically" />
+      <item value="setting to 3600&#10;        means connections will be recycled after one hour" />
+      <item value="causes" />
+      <item value="particular" />
+      <item value="For example, setting to 3600&#10;        means connections will be recycled after one hour" />
+      <item value="this setting causes the pool to recycle&#10;        connections after the given number of seconds has passed" />
+      <item value="feature that tests connections for liveness upon&#10;        each checkout" />
+      <item value="if True will enable the connection pool" />
+      <item value="Get a connection to this Database. Connections are retrieved from a&#10;        pool" />
       <item value="example" />
       <item value="shift_" />
       <item value="班次" />
@@ -92,21 +102,11 @@
       <item value="retail create url" />
       <item value="消失" />
       <item value="依赖" />
-      <item value="identify if python is being run in interactive mode. If so, disable logging." />
-      <item value="identify if python is being run in interactive mode. If so, disable logging" />
-      <item value="leaving logger event level as is" />
-      <item value="Captured log call" />
-      <item value="生成" />
-      <item value="颗粒度" />
-      <item value="no upstream branch" />
-      <item value="正确" />
-      <item value="结构" />
-      <item value="retail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="459" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
