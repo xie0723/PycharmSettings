@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="the number of connections to allow in&#10;        connection pool &quot;overflow&quot;, that is connections that can be&#10;        opened above and beyond the pool_size setting" />
       <item value="范围" />
       <item value="An optional name prefix to give our threads" />
       <item value="筛选" />
@@ -101,12 +102,11 @@
       <item value="快捷" />
       <item value="实际值" />
       <item value="Broad" />
-      <item value="noinspection PyBroadException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="463" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="464" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
