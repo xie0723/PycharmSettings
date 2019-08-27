@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="An optional name prefix to give our threads" />
       <item value="筛选" />
       <item value="shift" />
       <item value="no&#10;        activity is detected on a connection for eight hours" />
@@ -101,12 +102,11 @@
       <item value="Broad" />
       <item value="noinspection PyBroadException" />
       <item value="水平" />
-      <item value="retail create url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="462" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
