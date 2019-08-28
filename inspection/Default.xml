@@ -28,6 +28,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="sys" />
+        <option value="dict.setdefault" />
       </list>
     </option>
   </inspection_tool>
