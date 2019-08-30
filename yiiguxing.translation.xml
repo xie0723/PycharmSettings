@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="message" />
       <item value="health check" />
       <item value="health" />
       <item value="重构" />
@@ -101,11 +102,10 @@
       <item value="WARNING" />
       <item value="appoinment" />
       <item value="subject" />
-      <item value="冗余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
+        <entry key="CHINESE" value="453" />
         <entry key="ENGLISH" value="465" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
