@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="异常" />
+      <item value="非正常" />
       <item value="incompatible" />
       <item value="incompatible." />
       <item value="Generate Allure report in the specified directory" />
@@ -100,13 +102,11 @@
       <item value="Plan" />
       <item value="作者" />
       <item value="auth" />
-      <item value="present" />
-      <item value="duration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
