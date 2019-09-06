@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="urls must start with a leading slash" />
       <item value="关联" />
       <item value="轨迹" />
       <item value="磁盘已满" />
@@ -101,12 +102,11 @@
       <item value="回归" />
       <item value="性能测试" />
       <item value="性能" />
-      <item value="primary key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="473" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="474" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
