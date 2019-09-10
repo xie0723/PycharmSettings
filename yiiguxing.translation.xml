@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="histogram" />
       <item value="单位" />
       <item value="柱形图" />
       <item value="画图" />
@@ -46,7 +47,6 @@
       <item value="覆盖率" />
       <item value="carrier" />
       <item value="carricode" />
-      <item value="histogram" />
       <item value="拼写" />
       <item value="THURSDAY" />
       <item value="SATURDAY" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="477" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
