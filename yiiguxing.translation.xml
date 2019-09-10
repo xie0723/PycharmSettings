@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="前端" />
+      <item value="font end" />
+      <item value="fontend" />
       <item value="已修复" />
       <item value="green" />
       <item value="Indian Red" />
@@ -99,14 +102,11 @@
       <item value="toast" />
       <item value="代码结构" />
       <item value="elapsed" />
-      <item value="消耗" />
-      <item value="其他" />
-      <item value="Print stats in the console" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="484" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
