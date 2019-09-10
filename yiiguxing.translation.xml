@@ -2,8 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
-      <item value="labels bottom" />
+      <item value="set ylabel" />
+      <item value="rect left" />
       <item value="histogram" />
+      <item value="labels bottom" />
       <item value="单位" />
       <item value="柱形图" />
       <item value="画图" />
@@ -100,13 +102,11 @@
       <item value="Show list of possible locust classes and exit" />
       <item value="print json data of the locust classes' task execution ratio " />
       <item value="host" />
-      <item value="default" />
-      <item value="不确定条件查询" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="481" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
