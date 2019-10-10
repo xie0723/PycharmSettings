@@ -1,4 +1,7 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="MarkdownFoldingSettings">
     <option name="COLLAPSE_IMAGES" value="false" />
     <option name="COLLAPSE_EMBEDDED_IMAGES" value="false" />
