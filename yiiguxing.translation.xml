@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="receive" />
       <item value="重构" />
       <item value="前端" />
       <item value="font end" />
@@ -101,12 +102,11 @@
       <item value="字段" />
       <item value="toast" />
       <item value="代码结构" />
-      <item value="elapsed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="486" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
