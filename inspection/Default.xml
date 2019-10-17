@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="45">
+        <list size="51">
           <item index="0" class="java.lang.String" itemvalue="mysql-python" />
           <item index="1" class="java.lang.String" itemvalue="pbr" />
           <item index="2" class="java.lang.String" itemvalue="PyJWT" />
@@ -49,6 +49,12 @@
           <item index="42" class="java.lang.String" itemvalue="redis" />
           <item index="43" class="java.lang.String" itemvalue="Flask-Session" />
           <item index="44" class="java.lang.String" itemvalue="jsonpath" />
+          <item index="45" class="java.lang.String" itemvalue="jdcal" />
+          <item index="46" class="java.lang.String" itemvalue="pandas" />
+          <item index="47" class="java.lang.String" itemvalue="python-dateutil" />
+          <item index="48" class="java.lang.String" itemvalue="et-xmlfile" />
+          <item index="49" class="java.lang.String" itemvalue="numpy" />
+          <item index="50" class="java.lang.String" itemvalue="openpyxl" />
         </list>
       </value>
     </option>
