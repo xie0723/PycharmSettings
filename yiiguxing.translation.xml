@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="voyage" />
       <item value="receive" />
       <item value="重构" />
       <item value="前端" />
@@ -64,7 +65,6 @@
       <item value="命中" />
       <item value="序列号" />
       <item value="计算" />
-      <item value="voyage" />
       <item value="分库分表" />
       <item value="分表" />
       <item value="delta" />
@@ -105,7 +105,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
+        <entry key="CHINESE" value="469" />
         <entry key="ENGLISH" value="486" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
