@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="stop max attempt number" />
+      <item value="stop_max_attempt_number" />
+      <item value="attempt" />
+      <item value="增加功能" />
       <item value="随机" />
       <item value="delay" />
       <item value="错误" />
@@ -98,15 +102,11 @@
       <item value="write" />
       <item value="domain" />
       <item value="表达式" />
-      <item value="type" />
-      <item value="flag" />
-      <item value="module" />
-      <item value="persisted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="492" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
