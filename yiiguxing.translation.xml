@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="随机" />
+      <item value="delay" />
+      <item value="错误" />
+      <item value="异常现象" />
+      <item value="异常" />
       <item value="berthing" />
       <item value="voyage" />
       <item value="receive" />
@@ -26,7 +31,6 @@
       <item value="百分数" />
       <item value="can not establish connection" />
       <item value="establish connection" />
-      <item value="异常" />
       <item value="非正常" />
       <item value="incompatible" />
       <item value="incompatible." />
@@ -77,7 +81,6 @@
       <item value="Monday" />
       <item value="差" />
       <item value="次数" />
-      <item value="delay" />
       <item value="未来" />
       <item value="延迟" />
       <item value="定位器" />
@@ -99,14 +102,11 @@
       <item value="flag" />
       <item value="module" />
       <item value="persisted" />
-      <item value="Invalid Request Error" />
-      <item value="字段" />
-      <item value="toast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="490" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
