@@ -14,7 +14,6 @@
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="WARNING" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -169,6 +168,11 @@
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="default" />
@@ -178,6 +182,7 @@
           <option name="name" value="default" />
           <option name="showStatsInConsoleByDefault" value="true" />
           <option name="showStatsInStatusBarByDefault" value="true" />
+          <option name="testHighlightersInInputFilter" value="true" />
         </Profile>
       </list>
     </option>
