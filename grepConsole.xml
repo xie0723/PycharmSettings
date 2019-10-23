@@ -12,9 +12,12 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="WARNING" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -23,6 +26,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="enabled" value="true" />
