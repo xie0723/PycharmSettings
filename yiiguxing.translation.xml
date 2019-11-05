@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="元信息" />
+      <item value="If specified, return an iterator where `chunksize` is the         number of rows to include in each chunk" />
       <item value="If specified, return an iterator where `chunksize` is the&#10;        number of rows to include in each chunk" />
       <item value="reflect" />
       <item value="convenience" />
@@ -100,13 +102,11 @@
       <item value="scalable frontend automation tests" />
       <item value="Base Request" />
       <item value="严重" />
-      <item value="registered" />
-      <item value="Model None not registered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="497" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
