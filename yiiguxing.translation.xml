@@ -2,6 +2,28 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="池子" />
+      <item value="surround" />
+      <item value="环绕" />
+      <item value="sequence" />
+      <item value="元信息" />
+      <item value="If specified, return an iterator where `chunksize` is the         number of rows to include in each chunk" />
+      <item value="If specified, return an iterator where `chunksize` is the&#10;        number of rows to include in each chunk" />
+      <item value="reflect" />
+      <item value="convenience" />
+      <item value="Fetch all results if desired." />
+      <item value="stop max attempt number" />
+      <item value="stop_max_attempt_number" />
+      <item value="attempt" />
+      <item value="增加功能" />
+      <item value="随机" />
+      <item value="delay" />
+      <item value="错误" />
+      <item value="异常现象" />
+      <item value="异常" />
+      <item value="berthing" />
+      <item value="voyage" />
+      <item value="receive" />
       <item value="重构" />
       <item value="前端" />
       <item value="font end" />
@@ -23,7 +45,6 @@
       <item value="百分数" />
       <item value="can not establish connection" />
       <item value="establish connection" />
-      <item value="异常" />
       <item value="非正常" />
       <item value="incompatible" />
       <item value="incompatible." />
@@ -63,7 +84,6 @@
       <item value="命中" />
       <item value="序列号" />
       <item value="计算" />
-      <item value="voyage" />
       <item value="分库分表" />
       <item value="分表" />
       <item value="delta" />
@@ -75,7 +95,6 @@
       <item value="Monday" />
       <item value="差" />
       <item value="次数" />
-      <item value="delay" />
       <item value="未来" />
       <item value="延迟" />
       <item value="定位器" />
@@ -83,30 +102,11 @@
       <item value="successful" />
       <item value="real signature unknown" />
       <item value="genexpr" />
-      <item value="keys while throwing away the least-recently-used keys beyond     ``maxsize" />
-      <item value="scalable frontend automation tests" />
-      <item value="Base Request" />
-      <item value="严重" />
-      <item value="registered" />
-      <item value="Model None not registered" />
-      <item value="Nested" />
-      <item value="write" />
-      <item value="domain" />
-      <item value="表达式" />
-      <item value="type" />
-      <item value="flag" />
-      <item value="module" />
-      <item value="persisted" />
-      <item value="Invalid Request Error" />
-      <item value="字段" />
-      <item value="toast" />
-      <item value="代码结构" />
-      <item value="elapsed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="503" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
