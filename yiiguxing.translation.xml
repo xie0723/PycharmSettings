@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="重构" />
       <item value="Subscribe" />
       <item value="Subscribe Record" />
       <item value="SubscribeRecord" />
@@ -31,7 +32,6 @@
       <item value="berthing" />
       <item value="voyage" />
       <item value="receive" />
-      <item value="重构" />
       <item value="前端" />
       <item value="font end" />
       <item value="fontend" />
@@ -105,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="507" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
