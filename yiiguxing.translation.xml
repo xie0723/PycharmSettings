@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="分析" />
       <item value="花费" />
       <item value="重构" />
       <item value="Subscribe" />
@@ -101,12 +102,11 @@
       <item value="拼接" />
       <item value="生成器" />
       <item value="Monday" />
-      <item value="差" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="ENGLISH" value="509" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
