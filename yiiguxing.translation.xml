@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="时间间隔" />
       <item value="analyze" />
       <item value="分析" />
       <item value="simple" />
@@ -101,12 +102,11 @@
       <item value="分表" />
       <item value="delta" />
       <item value="DELTA NUMB" />
-      <item value="carrier info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="493" />
+        <entry key="ENGLISH" value="519" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
