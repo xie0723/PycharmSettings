@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="event Operation Date" />
       <item value="时间间隔" />
       <item value="距离" />
       <item value="计算" />
@@ -101,12 +102,11 @@
       <item value="指标" />
       <item value="命中" />
       <item value="序列号" />
-      <item value="分库分表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="525" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
