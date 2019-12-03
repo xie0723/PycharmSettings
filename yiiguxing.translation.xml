@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="WARNING" />
       <item value="POST JSON" />
       <item value="bege" />
       <item value="begen" />
@@ -101,12 +102,11 @@
       <item value="future" />
       <item value="覆盖率" />
       <item value="carrier" />
-      <item value="carricode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="530" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
