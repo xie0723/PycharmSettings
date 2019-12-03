@@ -2,6 +2,32 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="POST JSON" />
+      <item value="bege" />
+      <item value="begen" />
+      <item value="开始" />
+      <item value="去重" />
+      <item value="passes columns are not ALL present datafram" />
+      <item value="event Operation Date" />
+      <item value="时间间隔" />
+      <item value="距离" />
+      <item value="计算" />
+      <item value="endpoint" />
+      <item value="时差" />
+      <item value="analyze" />
+      <item value="分析" />
+      <item value="simple" />
+      <item value="correct" />
+      <item value="正确" />
+      <item value="花费" />
+      <item value="重构" />
+      <item value="Subscribe" />
+      <item value="Subscribe Record" />
+      <item value="SubscribeRecord" />
+      <item value="lcSubscribeRecord" />
+      <item value="marionette" />
+      <item value="重复" />
+      <item value="组合数据" />
       <item value="池子" />
       <item value="surround" />
       <item value="环绕" />
@@ -24,7 +50,6 @@
       <item value="berthing" />
       <item value="voyage" />
       <item value="receive" />
-      <item value="重构" />
       <item value="前端" />
       <item value="font end" />
       <item value="fontend" />
@@ -77,36 +102,11 @@
       <item value="覆盖率" />
       <item value="carrier" />
       <item value="carricode" />
-      <item value="拼写" />
-      <item value="THURSDAY" />
-      <item value="SATURDAY" />
-      <item value="指标" />
-      <item value="命中" />
-      <item value="序列号" />
-      <item value="计算" />
-      <item value="分库分表" />
-      <item value="分表" />
-      <item value="delta" />
-      <item value="DELTA NUMB" />
-      <item value="carrier info" />
-      <item value="singleton" />
-      <item value="拼接" />
-      <item value="生成器" />
-      <item value="Monday" />
-      <item value="差" />
-      <item value="次数" />
-      <item value="未来" />
-      <item value="延迟" />
-      <item value="定位器" />
-      <item value="spider tracking voyage" />
-      <item value="successful" />
-      <item value="real signature unknown" />
-      <item value="genexpr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="529" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />

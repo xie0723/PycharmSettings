@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="51">
+        <list size="61">
           <item index="0" class="java.lang.String" itemvalue="mysql-python" />
           <item index="1" class="java.lang.String" itemvalue="pbr" />
           <item index="2" class="java.lang.String" itemvalue="PyJWT" />
@@ -56,6 +56,16 @@
           <item index="48" class="java.lang.String" itemvalue="et-xmlfile" />
           <item index="49" class="java.lang.String" itemvalue="numpy" />
           <item index="50" class="java.lang.String" itemvalue="openpyxl" />
+          <item index="51" class="java.lang.String" itemvalue="baidu_aip" />
+          <item index="52" class="java.lang.String" itemvalue="Scrapy" />
+          <item index="53" class="java.lang.String" itemvalue="eventlet" />
+          <item index="54" class="java.lang.String" itemvalue="pytesseract" />
+          <item index="55" class="java.lang.String" itemvalue="SQLAlchemy" />
+          <item index="56" class="java.lang.String" itemvalue="crochet" />
+          <item index="57" class="java.lang.String" itemvalue="scrapy_inline_requests" />
+          <item index="58" class="java.lang.String" itemvalue="requests" />
+          <item index="59" class="java.lang.String" itemvalue="pika" />
+          <item index="60" class="java.lang.String" itemvalue="Pillow" />
         </list>
       </value>
     </option>
