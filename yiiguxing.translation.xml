@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="delay" />
       <item value="provide automatic options" />
       <item value="endpoint" />
       <item value="WARNING" />
@@ -45,7 +46,6 @@
       <item value="attempt" />
       <item value="增加功能" />
       <item value="随机" />
-      <item value="delay" />
       <item value="错误" />
       <item value="异常现象" />
       <item value="异常" />
@@ -105,7 +105,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
+        <entry key="CHINESE" value="504" />
         <entry key="ENGLISH" value="532" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
