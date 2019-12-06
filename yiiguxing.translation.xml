@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="解决" />
       <item value="delay" />
       <item value="provide automatic options" />
       <item value="endpoint" />
@@ -101,12 +102,11 @@
       <item value="批量执行" />
       <item value="feature" />
       <item value="future" />
-      <item value="覆盖率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="504" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="533" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
