@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="assemble" />
       <item value="scriptable" />
       <item value="subscriptable" />
       <item value="解决" />
@@ -101,12 +102,11 @@
       <item value="example" />
       <item value="shift_" />
       <item value="班次" />
-      <item value="批量执行" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="536" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
