@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="discharge" />
       <item value="Transit Port" />
       <item value="Destination Port" />
       <item value="assemble" />
@@ -101,12 +102,11 @@
       <item value="feature that tests connections for liveness upon&#10;        each checkout" />
       <item value="if True will enable the connection pool" />
       <item value="Get a connection to this Database. Connections are retrieved from a&#10;        pool" />
-      <item value="example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="539" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
