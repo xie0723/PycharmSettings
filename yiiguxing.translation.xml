@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="dynamic" />
       <item value="blocker" />
       <item value="重构" />
       <item value="discharge" />
@@ -101,12 +102,11 @@
       <item value="For example, setting to 3600&#10;        means connections will be recycled after one hour" />
       <item value="this setting causes the pool to recycle&#10;        connections after the given number of seconds has passed" />
       <item value="feature that tests connections for liveness upon&#10;        each checkout" />
-      <item value="if True will enable the connection pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="542" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
