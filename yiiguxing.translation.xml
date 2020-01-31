@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="MySQL Strict Mode is not set for database connection 'default'" />
+      <item value="MySQL Strict Mode is not set for database connection 'default'         HINT: MySQL's Strict Mode fixes many data integrity problems in MySQL, such as data truncation upon insertion, by escalating warnings into errors. It is strongly recommended you activate it. See" />
+      <item value="MySQL Strict Mode is not set for database connection 'default'         HINT: MySQL's Strict Mode fixes many data integrity problems in MySQL, such as data truncation upon insertion, by escalating warnings into errors. It is strongly recommended you activate it. See: htt" />
       <item value="回文" />
       <item value="Only enqueue the item if a free slot is immediately available" />
       <item value="enqueue" />
@@ -99,14 +102,11 @@
       <item value="范围" />
       <item value="An optional name prefix to give our threads" />
       <item value="筛选" />
-      <item value="shift" />
-      <item value="no&#10;        activity is detected on a connection for eight hours" />
-      <item value="in particular will disconnect automatically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="549" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
