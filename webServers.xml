@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5c43c816-5c7b-4570-a610-760ac384d3bb" name="Copy of project-level server '192.168.50.33'" url="http://47.102.223.69">
+      <webServer id="5c43c816-5c7b-4570-a610-760ac384d3bb" name="空心科技" url="http://47.102.223.69">
         <fileTransfer host="47.102.223.69" port="22" rootFolder="/home/auto_test_platform/EasyTest" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
