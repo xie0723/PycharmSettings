@@ -4,7 +4,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="199">
+        <list size="200">
           <item index="0" class="java.lang.String" itemvalue="mysql-python" />
           <item index="1" class="java.lang.String" itemvalue="pbr" />
           <item index="2" class="java.lang.String" itemvalue="PyJWT" />
@@ -204,6 +204,7 @@
           <item index="196" class="java.lang.String" itemvalue="colorama" />
           <item index="197" class="java.lang.String" itemvalue="django-timezone-field" />
           <item index="198" class="java.lang.String" itemvalue="ply" />
+          <item index="199" class="java.lang.String" itemvalue="crypto" />
         </list>
       </value>
     </option>
