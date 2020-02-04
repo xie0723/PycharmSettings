@@ -231,6 +231,7 @@
       <list>
         <option value="sys" />
         <option value="dict.setdefault" />
+        <option value="dict.has_key" />
       </list>
     </option>
   </inspection_tool>
