@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="restore" />
+      <item value="resotre" />
       <item value="everything" />
       <item value="every" />
       <item value="MySQL Strict Mode is not set for database connection 'default'" />
@@ -100,12 +102,10 @@
       <item value="health check" />
       <item value="health" />
       <item value="the number of connections to allow in         connection pool &quot;overflow&quot;, that is connections that can be         opened above and beyond the pool_size setting" />
-      <item value="the number of connections to allow in&#10;        connection pool &quot;overflow&quot;, that is connections that can be&#10;        opened above and beyond the pool_size setting" />
-      <item value="范围" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
+        <entry key="CHINESE" value="523" />
         <entry key="ENGLISH" value="549" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
