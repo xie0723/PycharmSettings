@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <histories>
+      <item value="生产者" />
       <item value="sequence" />
       <item value="restore" />
       <item value="resotre" />
@@ -101,12 +102,11 @@
       <item value="message" />
       <item value="health check" />
       <item value="health" />
-      <item value="the number of connections to allow in         connection pool &quot;overflow&quot;, that is connections that can be         opened above and beyond the pool_size setting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="551" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="3" />
